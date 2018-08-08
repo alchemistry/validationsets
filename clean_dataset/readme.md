@@ -29,14 +29,6 @@ cmp with stereo have been removed
 cmp without IC50 as well
 pdb: 6cje-cmp_1, 6cjw-cmp_2, 6cjh-cmp_3, 6cj5-cmp_6, 6cjy-cmp_4, 6ck3-cmp_23, 6cki-cmp_10, 6ck6-cmp_19
 
-#ppat
-Caution, biologically relevent oligomerization is homo-hexamer
-CAUTION: Cmp 1-15 and 16-35 are not in the same binding pocket
-Cmp 1 to 15 are from SAR tables 1 to 4, only cmp with Kd from SPR have been kept because some enzymatic essays approached the lower limit of the assay.
-pdb: 6chl-cmp_1, 6chm-(cmp not kept), 6cho-(cmp not kept), 6chn-cmp_5, 6chp-cmp_7
-Cmp 16 to 35 are from tables 5 to 7, only cmps with SPR data have been kept for the same reason 
-pdb: 6chq-(cmp not kept), 6ckw-cmp_32
-
 #step
 Only enantipure compounds have been kept
 Caution about the binding mode: cmp 1 and 2-3 have different binding mode, difference that could occurred also among the congeneric ligands.

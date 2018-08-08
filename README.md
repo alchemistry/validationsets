@@ -38,5 +38,8 @@ For this, we need appropriate "soft benchmark" systems with high quality experim
 
 ## Contributors
 - David L. Mobley (UCI)
+- Jeremy Lapierre (Silicon Therapeutics)
+- Bryce Allen (Silicon Therapeutics)
+- Woody Sherman (Silicon Therapeutics)
 
 ( Please add your name here if you contribute significantly)
